@@ -1,0 +1,3 @@
+/home/alexber1999/Desktop/SEACORP/0mq/zeromq-4.1.6/Projects/PubSubProtoBuf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alexber1999/Desktop/SEACORP/0mq/zeromq-4.1.6/Projects/PubSubProtoBuf/cmake-build-debug/CMakeFiles/PubSubProtoBuf.dir
+/home/alexber1999/Desktop/SEACORP/0mq/zeromq-4.1.6/Projects/PubSubProtoBuf/cmake-build-debug/CMakeFiles/edit_cache.dir
