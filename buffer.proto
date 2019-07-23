@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+package buffer;
+
+message Status {
+    required string userIn = 1;
+    optional bool terminate = 2;
+}
